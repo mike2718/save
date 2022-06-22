@@ -9,4 +9,6 @@ git archive -v --format=tar.zst --prefix=save_%datetime%_HEAD/ -o ../save_%datet
 COPY /Y E:\game\¹Ö®Ö¢ºòÈº\Save*.lsd .\¹Ö®Ö¢ºòÈº\
 COPY /Y "C:\Users\mike2\AppData\LocalLow\Lizardry\Seven Days to End with You\*" ".\7 Days to End with You\"
 
+DEL /Q ".\DDLC-1454445547\*" 2>nul
+COPY /Y "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547\*" ".\DDLC-1454445547\"
 pause
