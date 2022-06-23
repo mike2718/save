@@ -1,0 +1,1346 @@
+{
+	"LOVEDIARY" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"KYUUSICOUNT" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"ISSHUROKUED" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"BEFOREWRISTCUT" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISHAKKYO" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISWRISTCUT" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"WISHLIST" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"ISGEDATSU" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISHORROR" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISHAPPAOK" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"FIRSTDATE" : {
+		"__type" : "ngov3.CmdType,Assembly-CSharp",
+		"value" : 127
+	},
+	"TRAUMA" : {
+		"__type" : "NGO.JineType,Assembly-CSharp",
+		"value" : 999
+	},
+	"ISHEARTRAUMA" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISJUNCHO" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"USEDNETAS" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.AlphaLevel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"alphaType" : 0,
+				"level" : 1
+			},{
+				"alphaType" : 6,
+				"level" : 1
+			}
+		]
+	},
+	"HAVINGNETAS" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.AlphaLevel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"alphaType" : 0,
+				"level" : 1
+			},{
+				"alphaType" : 6,
+				"level" : 1
+			},{
+				"alphaType" : 2,
+				"level" : 1
+			}
+		]
+	},
+	"STATUS" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.Status, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"statusType" : 0,
+				"currentValue" : {
+					"value" : 20
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 2,
+				"currentValue" : {
+					"value" : 2984
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 9999999
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 8,
+				"currentValue" : {
+					"value" : 100
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 500
+				},
+				"minValue" : 100,
+				"dispAsPercent" : true
+			},{
+				"statusType" : 3,
+				"currentValue" : {
+					"value" : 43
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 4,
+				"currentValue" : {
+					"value" : 17
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 5,
+				"currentValue" : {
+					"value" : 20
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 9,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 60
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 10,
+				"currentValue" : {
+					"value" : 3
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 60
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 12,
+				"currentValue" : {
+					"value" : 1
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 30
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 13,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 2
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 14,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 60
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 15,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 60
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 16,
+				"currentValue" : {
+					"value" : 3
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 90
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 11,
+				"currentValue" : {
+					"value" : 1
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 30
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 18,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 6,
+				"currentValue" : {
+					"value" : 5
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 30
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 7,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 3
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 20,
+				"currentValue" : {
+					"value" : 1
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 5
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			}
+		]
+	},
+	"PSYCHECOUNT" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"MIDOKUCOUNT" : {
+		"__type" : "System.Int32",
+		"value" : 3
+	},
+	"LOOPCOUNT" : {
+		"__type" : "System.Int32",
+		"value" : 1
+	},
+	"DAYACTIONHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			"PlayMakeLove","Zatudan_1","InternetDeai2","PlayIchatukuIchatuku","InternetPoketterF0Y3","InternetYoutube","Hnahaisin_1"
+		]
+	},
+	"EVENTHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			"LineWeekDay006","LineWeekDay081","Kenjo_2","LineWeekDay076","LineWeekDay087"
+		]
+	},
+	"POKETTERHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.TweetData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"Type" : 327,
+				"day" : 1,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 874,
+				"RtNumber" : 125,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 127
+			},{
+				"Type" : 327,
+				"day" : 1,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 127
+			},{
+				"Type" : 139,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 991,
+				"RtNumber" : 39,
+				"kusoReps" : [
+					200
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 66
+			},{
+				"Type" : 139,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 66
+			},{
+				"Type" : 264,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 991,
+				"RtNumber" : 39,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 0
+			},{
+				"Type" : 264,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 0
+			},{
+				"Type" : 205,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 0
+			},{
+				"Type" : 245,
+				"day" : 2,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 1020,
+				"RtNumber" : 40,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 127
+			},{
+				"Type" : 37,
+				"day" : 3,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 72
+			},{
+				"Type" : 8,
+				"day" : 3,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 92
+			},{
+				"Type" : 112,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 1020,
+				"RtNumber" : 40,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 95
+			},{
+				"Type" : 112,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 95
+			},{
+				"Type" : 20,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 71
+			},{
+				"Type" : 206,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 71
+			},{
+				"Type" : 280,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 1020,
+				"RtNumber" : 40,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 35
+			},{
+				"Type" : 280,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 35
+			},{
+				"Type" : 281,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 35
+			},{
+				"Type" : 207,
+				"day" : 4,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 35
+			}
+		]
+	},
+	"JINEHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.JineData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 950,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 99,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 951,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 952,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 953,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 954,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 955,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 956,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 957,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 959,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 960,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 961,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 962,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 963,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 964,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 965,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 966,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 967,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : -1,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 968,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 969,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 970,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 971,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 972,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 973,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 974,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 975,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 977,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 979,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 980,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 981,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 982,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 983,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 984,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 985,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 986,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 987,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 988,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 989,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 990,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 991,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 992,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 993,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 1,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 2,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1439,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 4,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 2,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 3,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 0,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1021,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 6,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1033,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 3,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1301,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 135,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 136,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1315,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 138,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 2,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 78,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 7,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 749,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 750,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 751,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 6,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1444,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 4,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1297,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1107,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1108,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 0,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1442,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 1,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 73,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1295,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 871,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 872,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 873,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 874,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 1,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 999,
+				"responseType" : 0,
+				"stampType" : 6,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 4,
+				"id" : 1292,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 84,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 5,
+				"freeMessage" : ""
+			}
+		]
+	}
+}

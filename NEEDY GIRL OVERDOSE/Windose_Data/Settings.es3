@@ -1,0 +1,40 @@
+{
+	"RESOLUTION" : {
+		"__type" : "ngov3.ResolutionType,Assembly-CSharp",
+		"value" : 1
+	},
+	"UNLOCKEDZIP" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			1
+		]
+	},
+	"IMAGEHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			"Ngocredits","tweet_selfie_cho_start_001","tweet_selfie_cho_happy_002","nichijou_IMG_0812","ikebukuro_SDIM1230","ikebukuro_SDIM1339","tweet_selfie_cho_cosplay_003","ikebukuro_SDIM1396","shinjuku_IMG_1312","@PPechka","@8744_HanaYoshi","@Llat_sann","@_Rlyeh","@cokecocolus","@ittokyu","@ky0_z9","@mtok_1","@p_maco13","@shibaitaroka_7","@y_mi1nt"
+		]
+	},
+	"ENDINGS" : {
+		"__type" : "System.Collections.Generic.List`1[[NGO.EndingType, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			16
+		]
+	},
+	"HAISHINSPEED" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"SE" : {
+		"__type" : "System.Single",
+		"value" : 0.169882447
+	},
+	"BGM" : {
+		"__type" : "System.Single",
+		"value" : 0.08517631
+	},
+	"LANG" : {
+		"__type" : "ngov3.LanguageType,Assembly-CSharp",
+		"value" : 0
+	}
+}

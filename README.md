@@ -3,8 +3,9 @@
 包括以下游戏存档，基本为日版存档：
 
 - 7 Days to End with You（Steam版）
-- Doki Doki Literature Club
+- Doki Doki Literature Club（Steam版）
 - Ib（Steam版）
+- NEEDY GIRL OVERDOSE（Steam版）
 - 廃深（Steam版）
 - 異形の箱庭 Lycoris（DLsite版）
 - 絶対絶望少女 ダンガンロンパ Another Episode（Steam版）
