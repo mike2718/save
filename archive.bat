@@ -18,4 +18,7 @@ COPY /Y "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547\*" ".\DDLC-1454445
 DEL /Q ".\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" 2>nul
 COPY /Y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" ".\NEEDY GIRL OVERDOSE\Windose_Data\"
 
+DEL /Q ".\natsuno-kanata\leveldb\*" 2>nul
+COPY /Y "C:\Users\mike2\AppData\Roaming\natsuno-kanata\Local Storage\leveldb\*" ".\natsuno-kanata\leveldb\"
+
 pause

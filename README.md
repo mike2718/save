@@ -6,6 +6,7 @@
 - Doki Doki Literature Club（Steam版）
 - Ib（Steam版）
 - NEEDY GIRL OVERDOSE（Steam版）
+- ナツノカナタ
 - 廃深（Steam版）
 - 異形の箱庭 Lycoris（DLsite版）
 - 絶対絶望少女 ダンガンロンパ Another Episode（Steam版）
