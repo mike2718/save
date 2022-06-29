@@ -4,7 +4,7 @@
 
 | 游戏名称 | 版本类型 | 版本号 |
 | :--- | :--- | :--- |
-| 7 Days to End with You | Steam | 1.1.06 |
+| [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam | 1.1.06 |
 | Doki Doki Literature Club | Steam | 1.1.1 |
 | Ib | Steam | 1.05 |
 | NEEDY GIRL OVERDOSE | Steam | 1.0.26 |
@@ -15,5 +15,7 @@
 | Danganronpa Another Episode: Ultra Despair Girls | Steam | |
 | 雨宿バス停留所 | 下载版 | 1.05 |
 | 魔女の家MV | Steam | 1.06 |
+| 怪異症候群 | 下载版 | 1.0 |
+| コープスパーティー ブラッドカバー5 | Windows版 |  |
 
 有需要的话可以自行取用。
