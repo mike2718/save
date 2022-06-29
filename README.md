@@ -14,6 +14,6 @@
 | 異形の箱庭 Lycoris | DLsite | 2.0.2 |
 | Danganronpa Another Episode: Ultra Despair Girls | Steam | |
 | 雨宿バス停留所 | 下载版 | 1.05 |
-| 魔女の家 | Steam | 1.06 |
+| 魔女の家MV | Steam | 1.06 |
 
 有需要的话可以自行取用。
