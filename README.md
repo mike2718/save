@@ -12,7 +12,7 @@
 | ナツノカナタ | Steam | 0.6.18 |
 | 廃深 | Steam | |
 | 異形の箱庭 Lycoris | DLsite | 2.0.2 |
-| 絶対絶望少女 ダンガンロンパ Another Episode | Steam | |
+| Danganronpa Another Episode: Ultra Despair Girls | Steam | |
 | 雨宿バス停留所 | 下载版 | 1.05 |
 | 魔女の家 | Steam | 1.06 |
 
