@@ -21,4 +21,7 @@ COPY /Y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windo
 DEL /Q ".\natsuno-kanata\leveldb\*" 2>nul
 COPY /Y "C:\Users\mike2\AppData\Roaming\natsuno-kanata\Local Storage\leveldb\*" ".\natsuno-kanata\leveldb\"
 
+DEL /Q ".\Pocket Mirror\Save*.rvdata2" 2>nul
+COPY /Y  "E:\game\Pocket Mirror ver.1.3\Pocket Mirror\Save*.rvdata2" ".\Pocket Mirror\"
+
 pause
