@@ -25,7 +25,7 @@ copy /y "E:\game\Pocket Mirror ver.1.3\Pocket Mirror\Save*.rvdata2" ".\Pocket Mi
 
 cd ..
 del /q save_*.rar 2>nul
-E:\cmdtool\rar.exe a -m5 -rr10 -xsave\.git save_%datetime%.rar save
+E:\cmdtool\rar.exe a -m5 -rr8 -s -md128 -xsave\.git save_%datetime%.rar save
 cd save
 
 pause
