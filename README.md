@@ -8,10 +8,11 @@
 | [Danganronpa Another Episode: Ultra Despair Girls](DanganAnother) | Steam版 | |
 | [Doki Doki Literature Club](DDLC-1454445547) | Steam版 | 1.1.1 |
 | [Ib](Ib) | Steam版 | 1.05 |
+| [hololive ERROR](hololive%20ERROR) | 完全版 | 1.1 |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | 1.0.26 |
 | [Pocket Mirror](Pocket%20Mirror) | 下载版 | 1.3 |
 | [Project Kat](ProjectKat) | Steam版 |  |
-| [クロエのレクイエム](/) | 下载版 |  |
+| [クロエのレクイエム](cloe) | 下载版 |  |
 | [コープスパーティー ブラッドカバー5](/) | Windows版 |  |
 | [ナツノカナタ](natsuno-kanata) | Steam版 | 0.6.18 |
 | [廃深](haishin) | Steam版 | |
