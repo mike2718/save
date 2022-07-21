@@ -11,7 +11,7 @@
 | [hololive ERROR](hololive%20ERROR) | 完全版 | 1.1 |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | 1.0.26 |
 | [Pocket Mirror](Pocket%20Mirror) | 下载版 | 1.3 |
-| [Project Kat](ProjectKat) | Steam版 |  |
+| [Project Kat](ProjectKat) | Steam版 | 1.3.1 |
 | [クロエのレクイエム](cloe) | 下载版 |  |
 | [コープスパーティー ブラッドカバー5](/) | Windows版 |  |
 | [ナツノカナタ](natsuno-kanata) | Steam版 | 0.6.18 |
