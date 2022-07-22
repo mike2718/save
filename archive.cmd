@@ -1,8 +1,10 @@
 @echo off
 cd /d "%~dp0"
+for /f "skip=1" %%x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%%x
+set today=%MyDate:~0,4%%MyDate:~4,2%%MyDate:~6,2%
 
-for /f "tokens=2 delims==" %%I in ('wmic os get localdatetime /format:list') do set datetime=%%I
-set datetime=%datetime:~0,4%_%datetime:~4,2%_%datetime:~6,2%
+del /q ..\save_*.tar.zst 2>nul
+git archive -v --format=tar.zst --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.tar.zst HEAD
 
 del /q ".\¹Ö®Ö¢ºòÈº\Save*.lsd" 2>nul
 copy /y "E:\game\¹Ö®Ö¢ºòÈº\Save*.lsd" ".\¹Ö®Ö¢ºòÈº\"
@@ -26,19 +28,14 @@ copy /y "E:\game\Pocket Mirror ver.1.3\Pocket Mirror\Save*.rvdata2" ".\Pocket Mi
 del /q ".\cloe\*" 2>nul
 copy /y "E:\game\cloe\*.savedata" ".\cloe\"
 
-rem ŸoÁÏ°æ
+rem hololive ERROR ŸoÁÏ°æ
 rd /s /q ".\hololiveERROR\*" 2>nul
 mkdir "hololiveERROR"
 xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololiveERROR\*"  ".\hololiveERROR\" /s /i /y
 
-rem ÍêÈ«°æ
+rem hololive ERROR ÍêÈ«°æ
 rd /s /q ".\hololive ERROR\*" 2>nul
 mkdir "hololive ERROR"
 xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR\" /s /i /y
-
-cd ..
-del /q save_*.rar 2>nul
-E:\cmdtool\rar.exe a -ma -m5 -rr8 -s -md128 -xsave\.git save_%datetime%.rar save
-cd save
 
 pause
