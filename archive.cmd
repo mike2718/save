@@ -28,11 +28,6 @@ copy /y "E:\game\Pocket Mirror ver.1.3\Pocket Mirror\Save*.rvdata2" ".\Pocket Mi
 del /q ".\cloe\*" 2>nul
 copy /y "E:\game\cloe\*.savedata" ".\cloe\"
 
-rem hololive ERROR ŸoÁÏ°æ
-rd /s /q ".\hololiveERROR\*" 2>nul
-mkdir "hololiveERROR"
-xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololiveERROR\*"  ".\hololiveERROR\" /s /i /y
-
 rem hololive ERROR ÍêÈ«°æ
 rd /s /q ".\hololive ERROR\*" 2>nul
 mkdir "hololive ERROR"
