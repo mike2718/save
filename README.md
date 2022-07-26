@@ -10,7 +10,7 @@
 | [Ib](Ib) | Steam版 | `1.05` |
 | [hololive ERROR](hololive%20ERROR) | 完全版 | `1.1` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | `1.0.26` |
-| [ONE～輝く季節へ～ VISTA動作確認版](ONE_FV) | DLsite版 | `-` |
+| [ONE～輝く季節へ～ VISTA動作確認版](ONE_FV) | DLsite版 | `1.00` |
 | [Pocket Mirror](Pocket%20Mirror) | 下载版 | `1.3` |
 | [Project Kat](ProjectKat) | Steam版 |  |
 | [クロエのレクイエム](cloe) | 下载版 |  |
