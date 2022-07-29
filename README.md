@@ -13,7 +13,7 @@
 | [ONE～輝く季節へ～ VISTA動作確認版](ONE_FV) | DLsite版 | `1.00` |
 | [Pocket Mirror](Pocket%20Mirror) | 下载版 | `1.3` |
 | [Project Kat](ProjectKat) | Steam版 |  |
-| [クロエのレクイエム](cloe) | 下载版 | 1.21 |
+| [クロエのレクイエム](cloe) | 下载版 | `1.21` |
 | [コープスパーティー ブラッドカバー5](/) | Windows版 |  |
 | [ナツノカナタ](natsuno-kanata) | Steam版 | `0.6.18` |
 | [廃深](haishin) | Steam版 | |
