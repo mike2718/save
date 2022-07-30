@@ -1,10 +1,12 @@
 @echo off
+rem 本批处理文件只支持ANSI编码
+setlocal enableextensions
 cd /d "%~dp0"
 for /f "skip=1" %%x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%%x
 set today=%MyDate:~0,4%%MyDate:~4,2%%MyDate:~6,2%
 
-del /q ..\save_*.tar.zst 2>nul
-git archive -v --format=tar.zst --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.tar.zst HEAD
+del /q ..\save_*.zip 2>nul
+git archive -v --format=zip --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.zip HEAD
 
 del /q ".\怪異症候群\Save*.lsd" 2>nul
 copy /y "E:\game\怪異症候群\Save*.lsd" ".\怪異症候群\"
@@ -22,15 +24,17 @@ rd /s /q ".\natsuno-kanata\leveldb\*" 2>nul
 mkdir natsuno-kanata
 xcopy "C:\Users\mike2\AppData\Roaming\natsuno-kanata\*" ".\natsuno-kanata\" /s /i /y
 
-del /q ".\Pocket Mirror\Save*.rvdata2" 2>nul
-copy /y "E:\game\Pocket Mirror ver.1.3\Pocket Mirror\Save*.rvdata2" ".\Pocket Mirror\"
-
 del /q ".\cloe\*" 2>nul
 copy /y "E:\game\cloe\*.savedata" ".\cloe\"
 
 rem hololive ERROR 完全版
 rd /s /q ".\hololive ERROR\*" 2>nul
 mkdir "hololive ERROR"
-xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR\" /s /i /y
+xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR" /s /i /y
+
+rem コープスパーティーブラッドカバー５
+rd /s /q ".\CorpsePartyBC_5\save_data\*" 2>nul
+mkdir ".\CorpsePartyBC_5\save_data"
+xcopy "E:\game\CorpsePartyBC_5\save_data\*"  ".\CorpsePartyBC_5\save_data" /s /i /y
 
 pause
