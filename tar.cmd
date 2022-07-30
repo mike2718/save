@@ -21,15 +21,12 @@ del /q ".\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" 2>nul
 copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" ".\NEEDY GIRL OVERDOSE\Windose_Data\"
 
 rd /s /q ".\natsuno-kanata\leveldb\*" 2>nul
-mkdir natsuno-kanata
-xcopy "C:\Users\mike2\AppData\Roaming\natsuno-kanata\*" ".\natsuno-kanata\" /s /i /y
-
-del /q ".\cloe\*" 2>nul
-copy /y "E:\game\cloe\*.savedata" ".\cloe\"
+mkdir ".\natsuno-kanata"
+xcopy "C:\Users\mike2\AppData\Roaming\natsuno-kanata\*" ".\natsuno-kanata" /s /i /y
 
 rem hololive ERROR ÍêÈ«°æ
 rd /s /q ".\hololive ERROR\*" 2>nul
-mkdir "hololive ERROR"
+mkdir ".\hololive ERROR"
 xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR" /s /i /y
 
 rem ¥³©`¥×¥¹¥Ñ©`¥Æ¥£©`¥Ö¥é¥Ã¥É¥«¥Ð©`£µ
