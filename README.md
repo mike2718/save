@@ -11,10 +11,9 @@
 | [hololive ERROR](hololive%20ERROR) | 完全版 | `1.1` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | `1.0.26` |
 | [ONE～輝く季節へ～ VISTA動作確認版](ONE_FV) | DLsite版 | `1.00` |
-| [Pocket Mirror](Pocket%20Mirror) | 下载版 | `1.3` |
 | [Project Kat](ProjectKat) | Steam版 |  |
 | [クロエのレクイエム](cloe) | 下载版 | `1.21` |
-| [コープスパーティー ブラッドカバー5](/) | Windows版 |  |
+| [コープスパーティー ブラッドカバー5]() | 同人版 | `-` |
 | [ナツノカナタ](natsuno-kanata) | Steam版 | `0.6.18` |
 | [廃深](haishin) | Steam版 | |
 | [怪異症候群](%E6%80%AA%E7%95%B0%E7%97%87%E5%80%99%E7%BE%A4) | 下载版 | `1.0` |
