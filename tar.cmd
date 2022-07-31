@@ -34,7 +34,7 @@ rd /s /q ".\CorpsePartyBC_5\save_data\*" 2>nul
 mkdir ".\CorpsePartyBC_5\save_data"
 xcopy "E:\game\CorpsePartyBC_5\save_data\*"  ".\CorpsePartyBC_5\save_data" /s /i /y
 
-
+rem ´ò°üÎª.zip
 cd ..
 del /q save_*.zip 2>nul
 E:\cmdtool\zip.exe -Z bzip2 -r save_HEAD_%today%.zip -x".git" save
