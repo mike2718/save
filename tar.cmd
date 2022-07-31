@@ -5,8 +5,8 @@ cd /d "%~dp0"
 for /f "skip=1" %%x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%%x
 set today=%MyDate:~0,4%%MyDate:~4,2%%MyDate:~6,2%
 
-del /q ..\save_*.zip 2>nul
-git archive -v --format=zip --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.zip HEAD
+del /q ..\save_*.tar.zst 2>nul
+git archive -v --format=zip --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.tar.zst HEAD
 
 del /q ".\¹Ö®Ö¢ºòÈº\Save*.lsd" 2>nul
 copy /y "E:\game\¹Ö®Ö¢ºòÈº\Save*.lsd" ".\¹Ö®Ö¢ºòÈº\"
@@ -33,5 +33,11 @@ rem ¥³©`¥×¥¹¥Ñ©`¥Æ¥£©`¥Ö¥é¥Ã¥É¥«¥Ð©`£µ
 rd /s /q ".\CorpsePartyBC_5\save_data\*" 2>nul
 mkdir ".\CorpsePartyBC_5\save_data"
 xcopy "E:\game\CorpsePartyBC_5\save_data\*"  ".\CorpsePartyBC_5\save_data" /s /i /y
+
+
+cd ..
+del /q save_*.zip 2>nul
+E:\cmdtool\zip.exe -Z bzip2 -r save_HEAD_%today%.zip -x".git" save
+cd save
 
 pause
