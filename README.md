@@ -2,7 +2,7 @@
 
 包括以下游戏存档，大部分为日版存档：
 
-| 游戏名称 | 版本类型 | 版本号 |
+| 游戏名称（点击进入存档子目录） | 版本类型 | 版本号 |
 | :--- | :--- | :--- |
 | [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam版 | `1.1.06` |
 | [Danganronpa Another Episode: Ultra Despair Girls](DanganAnother) | Steam版 | |
@@ -22,6 +22,6 @@
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | `1.06` |
 | [Memories Off 2nd](MemoOff2nd) | 98/98SE/Me/2000/XP版 | `1.0.0.0` |
 | [シンフォニック＝レイン（普及版）](SRVE) | 98SE/Me/2000/XP版 | `1.1.0.6` |
-<!-- |||| -->
+<!-- | [マブラヴ オルタネイティヴ](/) | Windows 7 対応版 |  | -->
 
 有需要的话可以自行取用。
