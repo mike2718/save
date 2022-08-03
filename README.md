@@ -20,7 +20,7 @@
 | [異形の箱庭 Lycoris](%E7%95%B0%E5%BD%A2%E3%81%AE%E7%AE%B1%E5%BA%AD%20Lycoris) | DLsite版 | `2.0.2` |
 | [雨宿バス停留所](abt) | 下载版 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | `1.06` |
-| [Memories Off 2nd](MemoOff2nd) | 98/ME/2000/XP版 | |
+| [Memories Off 2nd](MemoOff2nd) | 98/98SE/Me/2000/XP版 | `1.0.0.0` |
 | [シンフォニック＝レイン（普及版）](SRVE) | 98SE/Me/2000/XP版 | `1.1.0.6` |
 <!-- |||| -->
 
