@@ -5,7 +5,6 @@
 | 游戏名称（点击进入存档子目录） | 版本类型 | 版本号 |
 | :--- | :--- | :--- |
 | [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam版 | `1.1.06` |
-| [Danganronpa Another Episode: Ultra Despair Girls](DanganAnother) | Steam版 | |
 | [Doki Doki Literature Club](DDLC-1454445547) | Steam版 | `1.1.1` |
 | [Ib](Ib) | Steam版 | `1.05` |
 | [hololive ERROR](hololive%20ERROR) | 完全版 | `1.1` |
