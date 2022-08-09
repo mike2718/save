@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam版 | `1.1.06` |
 | [Doki Doki Literature Club](DDLC-1454445547) | Steam版 | `1.1.1` |
-| [hololive ERROR](hololive%20ERROR) | 完全版 | `1.1` |
+| [hololive ERROR](hololive%20ERROR) | 完全版 | `1.2` |
 | [Ib](Ib) | Steam版 | `1.05` |
 | [Memories Off 2nd](MemoOff2nd) | 98/98SE/Me/2000/XP版 | `1.0.0.0` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | `1.0.26` |
