@@ -86,7 +86,7 @@ pre {
 }
 
 code {
-    font-family: monospace;
+    font-family: 'Cascadia Mono', 'SF Mono', 'Fira Code', 'Source Code Pro', monospace;
     background-color: #d3e1e4;
 }
 
