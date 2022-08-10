@@ -1,7 +1,5 @@
 tools/make_spec.lua
 tools/spec2js.js
-tools/template.commonmark
-tools/template.latex
 # JoyToKey日志文件
 JoyToKey.log
 # 存档用的日志文件

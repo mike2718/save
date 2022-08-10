@@ -1,7 +1,7 @@
 ---
 title: 自用游戏存档备份
 author: Mike Akiba
-version: '0.10'
+version: '1.00'
 date: '2022-08-10'
 ...
 
