@@ -1,3 +1,4 @@
+tools/make_spec.lua
 # JoyToKey日志文件
 JoyToKey.log
 # 存档用的日志文件
