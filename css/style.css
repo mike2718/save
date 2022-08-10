@@ -41,6 +41,8 @@ div.examplenum { font-size: 11pt; text-align: left; margin-bottom: 10px; }
 div.column { display: inline-block; width: 50%; vertical-align: top; }
 div.example > div:nth-child(2) { clear:left; background-color: #d3e1e4; }
 div.example > div:nth-child(3) { clear:right; background-color: #c9cace; }
+table, th, td { border: 1px solid; }
+table { border-collapse: collapse; }
 th { text-align: left; }
 a.dingus {
   margin-left: 1em;
@@ -54,6 +56,10 @@ a.dingus {
   border-bottom: 2px #2a9ec1 solid;
   border-right: 2px #2a9ec1 solid;
 }
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
 a.footnoteRef > sup:before {
   content: "[";
 }
