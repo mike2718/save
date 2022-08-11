@@ -1,3 +1,5 @@
+*.jpeg
+*.jpg
 tools/make_spec.lua
 tools/spec2js.js
 # JoyToKey日志文件
