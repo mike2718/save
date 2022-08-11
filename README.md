@@ -2,7 +2,7 @@
 title: 自用游戏存档备份
 author: Mike Akiba
 version: '1.00'
-date: '2022-08-11'
+date: '2022-08-12'
 ...
 
 # 自用游戏存档备份
@@ -107,6 +107,11 @@ date: '2022-08-11'
 <td><a href="%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B4Latest">マブラヴ オルタネイティヴ</a></td>
 <td>Windows 7 対応版</td>
 <td><code>6.10.09D</code></td>
+</tr>
+<tr>
+<td><a href="%E7%99%BD%E6%98%BC%E5%A4%A2%E3%81%AE%E9%9D%92%E5%86%99%E7%9C%9F%E3%80%80%E4%BD%93%E9%A8%93%E7%89%88">白昼夢の青写真</a></td>
+<td>体験版</td>
+<td><code>1.1</code></td>
 </tr>
 </tbody>
 </table>
