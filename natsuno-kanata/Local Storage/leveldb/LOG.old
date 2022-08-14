@@ -1,6 +1,0 @@
-2022/06/30-03:21:58.653 37ec Reusing MANIFEST C:\Users\mike2\AppData\Roaming\natsuno-kanata\Local Storage\leveldb/MANIFEST-000001
-2022/06/30-03:21:58.654 37ec Recovering log #3
-2022/06/30-03:21:58.656 37ec Reusing old log C:\Users\mike2\AppData\Roaming\natsuno-kanata\Local Storage\leveldb/000003.log 
-2022/06/30-03:30:39.977 2468 Level-0 table #5: started
-2022/06/30-03:30:39.988 2468 Level-0 table #5: 13060 bytes OK
-2022/06/30-03:30:39.990 2468 Delete type=0 #3
