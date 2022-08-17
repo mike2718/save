@@ -1,5 +1,4 @@
 JoyToKey.log
-00000?.log
 GPUCache/
 Code Cache/
 Session Storage/
@@ -7,8 +6,6 @@ Network Persistent State
 Preferences
 *.jpg
 Player.log
-LOG
-LOG.old
 LOCK
 Player-prev.log
 #save??.atr
