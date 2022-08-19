@@ -113,10 +113,12 @@ date: '2022-08-12'
 <td>体験版</td>
 <td><code>1.1</code></td>
 </tr>
+<tr>
+<td><a href="com.uniteatsushi.sokaishin">葬回診</a></td>
+<td>Android版</td>
+<td><code>1.0.0</code></td>
+</tr>
 </tbody>
 </table>
 
-<!-- | [NOeSIS-嘘を吐いた記憶の物語-](Noesis01) | Freem！版 | `1.11` | -->
-
 有需要的话可以自行取用。
-
