@@ -10,7 +10,7 @@
 | [Ib](Ib) | Steam版 | `1.05` |
 | [Memories Off 2nd](MemoOff2nd) | 98/98SE/Me/2000/XP版 | `1.0.0.0` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | `1.0.26` |
-| [ONE～輝く季節へ～](ONE_FV) | VISTA動作確認版 | DLsite版 | `1.00` |
+| [ONE～輝く季節へ～ VISTA動作確認版](ONE_FV) | DLsite版 | `1.00` |
 | [Project Kat](ProjectKat) | Steam版 |  | 
 | [クロエのレクイエム](cloe) | Freem！版 | `1.21` |
 | [コープスパーティーブラッドカバー５](CorpsePartyBC_5) | Windows版 | `5.05` |
