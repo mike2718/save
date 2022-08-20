@@ -35,4 +35,9 @@ rd /s /q ".\CorpsePartyBC_5\save_data\*" 2>nul
 mkdir ".\CorpsePartyBC_5\save_data"
 xcopy "E:\game\CorpsePartyBC_5\save_data\*"  ".\CorpsePartyBC_5\save_data" /s /i /y
 
+rem Τα»ΨΤ\
+rem del /q "E:\dev\save\com.uniteatsushi.sokaishin\*" 2>nul
+rem adb pull /data/data/com.uniteatsushi.sokaishin/files/save.ini E:/dev/save/com.uniteatsushi.sokaishin
+rem adb pull /data/data/com.uniteatsushi.sokaishin/files/setting.ini E:/dev/save/com.uniteatsushi.sokaishin
+
 pause
