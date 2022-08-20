@@ -15,7 +15,7 @@
 | [クロエのレクイエム](cloe) | Freem！版 | `1.21` |
 | [コープスパーティーブラッドカバー５](CorpsePartyBC_5) | Windows版 | `5.05` |
 | [シンフォニック＝レイン（普及版）](SRVE) | 98SE/Me/2000/XP版 | `1.1.0.6` |
-| [ナツノカナタ](natsuno-kanata) | Steam版 | `0.6.18` |
+| [ナツノカナタ](natsuno-kanata) | Steam版 | `1.0.1` |
 | [廃深](haishin) | Steam版 |  |
 | [怪異症候群](%E6%80%AA%E7%95%B0%E7%97%87%E5%80%99%E7%BE%A4) | 下载版 | `1.0` |
 | [異形の箱庭 Lycoris](%E7%95%B0%E5%BD%A2%E3%81%AE%E7%AE%B1%E5%BA%AD%20Lycoris) | DLsite版 | `2.0.2` |
