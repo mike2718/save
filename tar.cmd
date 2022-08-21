@@ -1,5 +1,5 @@
 @echo off
-rem 本批处理文件只支持ANSI编码
+rem 本文件只支持gb2312编码
 setlocal enableextensions
 cd /d "%~dp0"
 for /f "skip=1" %%x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%%x

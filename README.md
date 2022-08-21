@@ -11,12 +11,12 @@
 | [Memories Off 2nd](MemoOff2nd) | 98/98SE/Me/2000/XP版 | `1.0.0.0` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | `1.0.26` |
 | [ONE～輝く季節へ～ VISTA動作確認版](ONE_FV) | DLsite版 | `1.00` |
-| [Project Kat](ProjectKat) | Steam版 |  | 
+| [Project Kat](ProjectKat) | Steam版 | `` | 
 | [クロエのレクイエム](cloe) | Freem！版 | `1.21` |
 | [コープスパーティーブラッドカバー５](CorpsePartyBC_5) | Windows版 | `5.05` |
 | [シンフォニック＝レイン（普及版）](SRVE) | 98SE/Me/2000/XP版 | `1.1.0.6` |
 | [ナツノカナタ](natsuno-kanata) | Steam版 | `1.0.1` |
-| [廃深](haishin) | Steam版 |  |
+| [廃深](haishin) | Steam版 | `` |
 | [怪異症候群](%E6%80%AA%E7%95%B0%E7%97%87%E5%80%99%E7%BE%A4) | 下载版 | `1.0` |
 | [異形の箱庭Lycoris](%E7%95%B0%E5%BD%A2%E3%81%AE%E7%AE%B1%E5%BA%AD%E3%80%80%E3%80%80Lycoris.2.0.2) | DLsite版 | `2.0.2` |
 | [雨宿バス停留所](abt) | Freem！版 | `1.05` |
@@ -30,7 +30,7 @@
 | [XENOPHOBIA](Xeno%2B) | Windows版 | `0.22` |
 
 
-<!-- 表格模板 -->
+<!-- 一行单元格的模板 -->
 <!-- | [](/) |  |  | -->
 
 有需要的话可以自行取用。
