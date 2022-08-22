@@ -28,6 +28,7 @@
 | [NOeSIS-嘘を吐いた記憶の物語-](Noesis01) | Freem！版 | `1.11` |
 | [NOeSIS02-羽化-](Noesis02) | Freem！版 | `1.05` |
 | [XENOPHOBIA](Xeno%2B) | Windows版 | `0.22` |
+| [HoloCure](HoloCure) | itch.io版 | `DEMO 0.3.1656491913` |
 
 
 <!-- 一行单元格的模板 -->
