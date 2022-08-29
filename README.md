@@ -29,7 +29,7 @@
 | [NOeSIS02-羽化-](Noesis02) | Freem!版 | XP / VISTA / 7 | `1.05` |
 | [XENOPHOBIA](Xeno%2B) | Windows版 |  | `0.22` |
 | [HoloCure](HoloCure) | itch.io版[^3] |  | `DEMO 0.3.1656491913` |
-| [リトル・ウィッチ☆パルフェ コンプリートパック](/) | Windows版 | 98 / Me / 2000 / XP | |
+| [リトル・ウィッチ パルフェ 〜黒猫印の魔法屋さん〜](/) | Windows版 | 98 / Me / 2000 / XP | |
 
 
 有需要的话可以自行取用。
