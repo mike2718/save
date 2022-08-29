@@ -45,6 +45,11 @@ mkdir HoloCure
 copy /y C:\Users\mike2\AppData\Local\HoloCure\* E:\dev\save\HoloCure\
 
 rem ×ª»»Îªhtml
-"C:\Program Files\cmark-gfm\bin\cmark-gfm.exe" -t html -e footnotes -e table -e strikethrough -e autolink -e tagfilter -e tasklist --width 80 README.md > index.html
+type header.html > index.html
+cmark-gfm -t html -e footnotes ^
+  -e table -e strikethrough -e autolink -e tagfilter -e tasklist ^
+  README.md >> index.html
+type footer.html >> index.html
+tidy -m index.html
 
 pause
