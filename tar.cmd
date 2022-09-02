@@ -1,5 +1,5 @@
 @echo off
-rem 本文件只支持 CP936 MS936 WINDOWS-936 编码
+rem 本文件只支持 CP936/MS936/WINDOWS-936 编码
 cd /d "%~dp0"
 for /f "skip=1" %%x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%%x
 set today=%MyDate:~0,4%%MyDate:~4,2%%MyDate:~6,2%
@@ -30,13 +30,5 @@ rem adb pull /data/data/com.uniteatsushi.sokaishin/files/setting.ini E:/dev/save
 
 rem HoloCure
 xcopy C:\Users\mike2\AppData\Local\HoloCure .\HoloCure /i /y
-
-rem 转换为html
-type header.html > index.html
-cmark-gfm -t html -e footnotes ^
-  -e table -e strikethrough -e autolink -e tagfilter -e tasklist ^
-  README.md >> index.html
-type footer.html >> index.html
-tidy -m index.html
 
 pause
