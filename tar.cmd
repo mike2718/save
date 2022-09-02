@@ -5,44 +5,41 @@ cd /d "%~dp0"
 for /f "skip=1" %%x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%%x
 set today=%MyDate:~0,4%%MyDate:~4,2%%MyDate:~6,2%
 
-del /q ..\save_*.tar.zst ..\save_*.zip 2>nul
+del /q ..\save_*.tar.zst ..\save_*.zip
 git archive --format=tar.zst --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.tar.zst HEAD
 git archive --format=zip --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.zip HEAD
 
-del /q ".\¹Ö®Ö¢ºòÈº\Save*.lsd" 2>nul
+del /q ".\¹Ö®Ö¢ºòÈº\Save*.lsd"
 copy /y "E:\game\¹Ö®Ö¢ºòÈº\Save*.lsd" ".\¹Ö®Ö¢ºòÈº\"
 
-del /q ".\7 Days to End with You\*.es3" 2>nul
+del /q ".\7 Days to End with You\*.es3"
 copy /y "C:\Users\mike2\AppData\LocalLow\Lizardry\Seven Days to End with You\*.es3" ".\7 Days to End with You\"
 
-del /q ".\DDLC-1454445547\*" 2>nul
+del /q ".\DDLC-1454445547\*"
 copy /y "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547\*" ".\DDLC-1454445547\"
 
-del /q ".\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" 2>nul
+del /q ".\NEEDY GIRL OVERDOSE\Windose_Data\*.es3"
 copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" ".\NEEDY GIRL OVERDOSE\Windose_Data\"
 
-rd /s /q ".\natsuno-kanata\leveldb\*" 2>nul
+rd /s /q .\natsuno-kanata\leveldb\*
 mkdir natsuno-kanata
-xcopy "C:\Users\mike2\AppData\Roaming\natsuno-kanata\*" ".\natsuno-kanata" /s /i /y
+xcopy C:\Users\mike2\AppData\Roaming\natsuno-kanata\* .\natsuno-kanata /s /i /y
 
 rem hololive ERROR ÍêÈ«°æ
-rd /s /q ".\hololive ERROR\*" 2>nul
+rd /s /q ".\hololive ERROR\*"
 mkdir "hololive ERROR"
 xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR" /s /i /y
 
 rem ¥³©`¥×¥¹¥Ñ©`¥Æ¥£©`¥Ö¥é¥Ã¥É¥«¥Ð©`£µ
-rd /s /q ".\CorpsePartyBC_5\save_data\*" 2>nul
-mkdir "CorpsePartyBC_5\save_data"
-xcopy "E:\game\CorpsePartyBC_5\save_data\*"  ".\CorpsePartyBC_5\save_data" /s /i /y
 
 rem Ôá»ØÔ\
-rem del /q "E:\dev\save\com.uniteatsushi.sokaishin\*" 2>nul
+rem del /q "E:\dev\save\com.uniteatsushi.sokaishin\*"
 rem adb pull /data/data/com.uniteatsushi.sokaishin/files/save.ini E:/dev/save/com.uniteatsushi.sokaishin
 rem adb pull /data/data/com.uniteatsushi.sokaishin/files/setting.ini E:/dev/save/com.uniteatsushi.sokaishin
 
 rem HoloCure
 mkdir HoloCure
-copy /y C:\Users\mike2\AppData\Local\HoloCure\* E:\dev\save\HoloCure\
+xcopy C:\Users\mike2\AppData\Local\HoloCure .\HoloCure /i /y
 
 rem ×ª»»Îªhtml
 type header.html > index.html
