@@ -1,5 +1,5 @@
 @echo off
-rem 本文件只支持gb2312编码
+rem 本文件只支持 CP936 MS936 WINDOWS-936 编码
 cd /d "%~dp0"
 for /f "skip=1" %%x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%%x
 set today=%MyDate:~0,4%%MyDate:~4,2%%MyDate:~6,2%
