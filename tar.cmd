@@ -5,7 +5,6 @@ for /f "skip=1" %%x in ('wmic os get localdatetime') do if not defined MyDate se
 set today=%MyDate:~0,4%%MyDate:~4,2%%MyDate:~6,2%
 
 del /q ..\save_*.zip
-rem git archive --format=tar.zst --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.tar.zst HEAD
 git archive --format=zip --prefix=save_HEAD_%today%/ --output=../save_HEAD_%today%.zip HEAD
 
 copy /y "E:\game\π÷Æê÷¢∫Ú»∫\Save*.lsd" ".\π÷Æê÷¢∫Ú»∫"
