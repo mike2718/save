@@ -20,6 +20,8 @@ xcopy C:\Users\mike2\AppData\Roaming\natsuno-kanata\* .\natsuno-kanata /s /i /y
 rem hololive ERROR ═ъ╚л░ц
 xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR" /s /i /y
 
+xcopy "C:\Users\steam\Documents\age\е▐е╓ещеЇекеые┐е═еде╞егеЇLatest\*" ".\е▐е╓ещеЇекеые┐е═еде╞егеЇLatest" /s /i /y
+
 rem е│й`е╫е╣е╤й`е╞егй`е╓еще├е╔еле╨й`г╡
 
 rem ╘с╗╪╘\
