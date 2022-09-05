@@ -39,7 +39,6 @@ MANIFEST-0000* binary
 LCS binary
 *.sav binary
 *.bak binary
-*.rbt binary
 *.rio.ici binary
 *.uuc binary
 *.jpg binary

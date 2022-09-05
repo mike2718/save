@@ -15,4 +15,5 @@ setup.xml
 soundconf.xml
 Settings_Error.json
 System.ini
+*.rbt
 
