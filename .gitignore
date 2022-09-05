@@ -8,8 +8,6 @@ Network Persistent State
 Player.log
 LOCK
 Player-prev.log
-#save??.atr
-save??.txt
 tools/make_spec.lua
 tools/spec2js.js
 ＰＣレポート.txt
