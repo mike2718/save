@@ -20,10 +20,6 @@ xcopy C:\Users\mike2\AppData\Roaming\natsuno-kanata\* .\natsuno-kanata /s /i /y
 rem hololive ERROR ÍêÈ«°æ
 xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR" /s /i /y
 
-xcopy "C:\Users\steam\Documents\age\¥Þ¥Ö¥é¥ô¥ª¥ë¥¿¥Í¥¤¥Æ¥£¥ôLatest\*" ".\¥Þ¥Ö¥é¥ô¥ª¥ë¥¿¥Í¥¤¥Æ¥£¥ôLatest" /s /i /y
-
-rem ¥³©`¥×¥¹¥Ñ©`¥Æ¥£©`¥Ö¥é¥Ã¥É¥«¥Ð©`£µ
-
 rem Ôá»ØÔ\
 rem del /q "E:\dev\save\com.uniteatsushi.sokaishin\*"
 rem adb pull /data/data/com.uniteatsushi.sokaishin/files/save.ini E:/dev/save/com.uniteatsushi.sokaishin
