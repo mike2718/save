@@ -9,9 +9,9 @@ git archive --format=zip --prefix=save_HEAD_%today%/ --output=../save_HEAD_%toda
 
 copy /y "E:\game\π÷Æê÷¢∫Ú»∫\Save*.lsd" ".\π÷Æê÷¢∫Ú»∫"
 
-xcopy "C:\Users\mike2\AppData\LocalLow\Lizardry\Seven Days to End with You" ".\7 Days to End with You" /i /y
+xcopy "C:\Users\mike2\AppData\LocalLow\Lizardry\Seven Days to End with You" ".\7 Days to End with You"/s /i /y
 
-xcopy "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547" ".\DDLC-1454445547" /i /y
+xcopy "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547" ".\DDLC-1454445547"/s /i /y
 
 copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" ".\NEEDY GIRL OVERDOSE\Windose_Data"
 
@@ -24,8 +24,5 @@ rem ‘·ªÿ‘\
 rem del /q "E:\dev\save\com.uniteatsushi.sokaishin\*"
 rem adb pull /data/data/com.uniteatsushi.sokaishin/files/save.ini E:/dev/save/com.uniteatsushi.sokaishin
 rem adb pull /data/data/com.uniteatsushi.sokaishin/files/setting.ini E:/dev/save/com.uniteatsushi.sokaishin
-
-rem HoloCure
-xcopy C:\Users\mike2\AppData\Local\HoloCure .\HoloCure /i /y
 
 pause

@@ -25,10 +25,9 @@
 | [白昼夢の青写真](%E7%99%BD%E6%98%BC%E5%A4%A2%E3%81%AE%E9%9D%92%E5%86%99%E7%9C%9F%E3%80%80%E4%BD%93%E9%A8%93%E7%89%88) | 体験版 | 8 / 8.1 / 10 | `1.1` |
 | [葬回診](com.uniteatsushi.sokaishin) | Android版 | - | `1.0.0` |
 | [アンリアルライフ](./) | Steam版 |  7 / 8 / 10 |  |
-| [NOeSIS-嘘を吐いた記憶の物語-](Noesis01) | Freem!版[^4] | XP / Vista / 7 | `1.11` |
+| [NOeSIS-嘘を吐いた記憶の物語-](Noesis01) | Freem!版[^3] | XP / Vista / 7 | `1.11` |
 | [NOeSIS02-羽化-](Noesis02) | Freem!版 | XP / Vista / 7 | `1.05` |
 | [XENOPHOBIA](Xeno%2B) | Windows版 | - | `0.22` |
-| [HoloCure](HoloCure) | itch.io版[^3] | - | `DEMO 0.3.1656491913` |
 | [リトル・ウィッチ パルフェ 〜黒猫印の魔法屋さん〜](./) | Windows版 | 98 / Me / 2000 / XP | |
 | [ゆめにっき](./) | Windows版 | 95 / 98 / 2000 / Me / XP | `0.10` |
 
@@ -36,5 +35,4 @@
 
 [^1]: 标注为Steam版的，全为Windows版
 [^2]: 标注为DLsite版的，全为Windows版
-[^3]: 标注为itch.io版的，全为Windows版
-[^4]: 标注为Freem!版的，全为Windows版
+[^3]: 标注为Freem!版的，全为Windows版
