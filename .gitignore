@@ -1,10 +1,10 @@
+tweet_cap_tmp.jpg
 mmf-res-*
 JoyToKey.log
 GPUCache/
 Code Cache/
 Session Storage/
 Network Persistent State
-*.jpg
 Player.log
 LOCK
 Player-prev.log
@@ -16,4 +16,22 @@ soundconf.xml
 Settings_Error.json
 System.ini
 *.rbt
-
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.tar.xz
+*.tar.zst
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+# Dump file
+*.stackdump
+# Folder config file
+[Dd]esktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# Windows shortcuts
+*.lnk
