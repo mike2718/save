@@ -17,9 +17,6 @@
 *.txt text eol=crlf
 *.xml text eol=crlf
 *.rpgsave eol=crlf
-glot*.sav
-slot*.bak
-
 
 # Denote all files that are truly binary and should not be modified.
 *.rvdata binary
