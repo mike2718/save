@@ -16,13 +16,8 @@
 *.json text eol=crlf
 *.atr text eol=crlf
 *.txt text eol=crlf
-*.LOG text eol=crlf
-*.LOG.old text eol=crlf
-*.CURRENT text eol=crlf
-*.LOCK text eol=crlf
 *.xml text eol=crlf
 *.rpgsave eol=crlf
-HoloCure/save.dat eol=crlf
 slot*.sav
 slot*.bak
 
