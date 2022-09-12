@@ -14,11 +14,10 @@
 *.ini text eol=crlf
 *.save text eol=crlf
 *.json text eol=crlf
-*.atr text eol=crlf
 *.txt text eol=crlf
 *.xml text eol=crlf
 *.rpgsave eol=crlf
-slot*.sav
+glot*.sav
 slot*.bak
 
 
@@ -28,15 +27,12 @@ slot*.bak
 *.es3 binary
 *.svd binary
 *.SEV binary
-0000*.log binary
-0000*.ldb binary
-MANIFEST-0000* binary
-LCS binary
 *.sav binary
 *.bak binary
 *.rio.ici binary
 *.uuc binary
 *.jpg binary
+*.jpeg binary
 *.png binary
 *.lsd binary
 DDLC-1454445547/*.save binary
