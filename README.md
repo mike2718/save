@@ -6,7 +6,7 @@
 | :----------------------                                                                                                                         | :------          | :----                          | :------    |
 | [7 Days to End with You](7%20Days%20to%20End%20with%20You)                                                                                      | Steam版[^1]      | 7+                             | `1.1.06`   |
 | [Doki Doki Literature Club](DDLC-1454445547)                                                                                                    | Steam版          | 7                              | `1.1.1`    |
-| [hololive ERROR 完全版](hololive%20ERROR) | Windows版 | 10 (64-bit) | `2.0` |
+| [hololive ERROR](hololive%20ERROR) | shop版 | 10 (64-bit) | `2.0` |
 | [Ib](Ib)                                                                                                                                        | Steam版          | 10                             | `1.05`     |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE)                                                                                                  | Steam版          | 8 / 10                         | `1.0.26`   |
 | [ONE～輝く季節へ～ Vista動作確認版](ONE_FV)                                                                                                     | DLsite版[^2]     | 98 / 2000 / Me / XP / Vista    | `1.00`     |
