@@ -1,26 +1,29 @@
+# Steam?
+Player.log
+Player-prev.log
+
 tweet_cap_tmp.jpg
 mmf-res-*
 JoyToKey.log
 GPUCache/
 Code Cache/
 Session Storage/
-Player.log
 LOCK
-Player-prev.log
-tools/make_spec.lua
-tools/spec2js.js
 ＰＣレポート.txt
 setup.xml
 soundconf.xml
 Settings_Error.json
 System.ini
 *.rbt
+
 *.zip
 *.rar
 *.tar
 *.tar.gz
 *.tar.xz
 *.tar.zst
+
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
@@ -34,5 +37,3 @@ ehthumbs_vista.db
 $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
-
-UO/Saved/Config/
