@@ -10,28 +10,20 @@
 
 # Declare files that will always have CRLF line endings on checkout.
 *.cmd text eol=crlf
+*.bat text eol=crlf
 *.ini text eol=crlf
-*.save text eol=crlf
 *.json text eol=crlf
-*.txt text eol=crlf
 *.xml text eol=crlf
 *.rpgsave eol=crlf
-Network Persistent State text eol=crlf
-Preferences text eol=crlf
 
 # Declare files that will always have LF line endings on checkout.
-CURRENT text eol=lf
-LOG text eol=lf
-LOG.old text eol=lf
+
 
 # Denote all files that are truly binary and should not be modified.
 *.rvdata binary
 *.dat binary
 *.es3 binary
 *.svd binary
-*.SEV binary
-*.sav binary
-*.bak binary
 *.rio.ici binary
 *.uuc binary
 *.jpg binary
@@ -39,6 +31,3 @@ LOG.old text eol=lf
 *.png binary
 *.lsd binary
 *.ldb binary
-DDLC-1454445547/*.save binary
-MANIFEST-* binary
-0000*.log binary

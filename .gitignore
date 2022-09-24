@@ -2,27 +2,13 @@
 Player.log
 Player-prev.log
 
-tweet_cap_tmp.jpg
-mmf-res-*
-JoyToKey.log
-GPUCache/
-Code Cache/
-Session Storage/
-LOCK
-ＰＣレポート.txt
-setup.xml
-soundconf.xml
-Settings_Error.json
-System.ini
-*.rbt
-
+*.7z
 *.zip
 *.rar
 *.tar
 *.tar.gz
 *.tar.xz
 *.tar.zst
-
 
 # Windows thumbnail cache files
 Thumbs.db
