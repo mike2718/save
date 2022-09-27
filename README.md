@@ -6,7 +6,7 @@
 | :---------------------- | :------ | :---- | :------ |
 | [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam版[^1] | 7+ | `1.1.06` |
 | [Doki Doki Literature Club](DDLC-1454445547) | Steam版 | 7 | `1.1.1` |
-| [hololive ERROR](hololive%20ERROR) | shop版 | 10 (64-bit) | `2.0` |
+| [hololive ERROR](hololive%20ERROR) | Shop版 | 10 (64-bit) | `2.0` |
 | [Ib](Ib) | Steam版 | 10 | `1.05` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | 8 / 10 | `1.0.26` |
 | [NOeSIS02-羽化-](Noesis02) | Freem!版 | XP / Vista / 7 | `1.05` |
@@ -26,6 +26,7 @@
 | [葬回診](com.uniteatsushi.sokaishin) | Android版 | - | `1.0.0` |
 | [雨宿バス停留所](abt) | Windows版 | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | Vista / 7 / 8 | `1.06` |
+| [Her Story](HerStory) | Steam版 | XP+ | `` |
 
 
 有需要的话可以自行取用。

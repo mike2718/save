@@ -27,6 +27,9 @@ rem del /q "E:\dev\save\com.uniteatsushi.sokaishin\*"
 rem adb pull /data/data/com.uniteatsushi.sokaishin/files/save.ini E:/dev/save/com.uniteatsushi.sokaishin
 rem adb pull /data/data/com.uniteatsushi.sokaishin/files/setting.ini E:/dev/save/com.uniteatsushi.sokaishin
 
+rem Her Story
+xcopy "C:\Users\mike2\AppData\LocalLow\Sam Barlow\HerStory\*"  ".\HerStory" /s /i /y
+
 call build.cmd
 
 pause
