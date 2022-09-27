@@ -16,7 +16,6 @@
 | [XENOPHOBIA](Xeno%2B) | Windows版 | - | `0.22` |
 | [クロエのレクイエム](cloe) | Windows版 | 2000 / XP / Vista / 7 / 8 | `1.21` |
 | [コープスパーティーブラッドカバー５](CorpsePartyBC_5) | Windows版 | 2000 / XP / Vista / 7 | `5.05` |
-| [シンフォニック＝レイン 普及版](SRVE) | Windows版 | 98SE / Me / 2000 / XP | `1.1.0.6` |
 | [ナツノカナタ](natsuno-kanata) | Steam版 | 10 | `1.0.9` |
 | [マブラヴ オルタネイティヴ](%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B4Latest) | Windows 7 対応版 | 7 | `6.10.09D` |
 | [リトル・ウィッチ パルフェ 〜黒猫印の魔法屋さん〜](./) | Windows版 | 98 / Me / 2000 / XP | |
