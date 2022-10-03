@@ -26,8 +26,8 @@
 | [葬回診](com.uniteatsushi.sokaishin) | Android版 | - | `1.0.0` |
 | [雨宿バス停留所](abt) | Windows版 | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | Vista / 7 / 8 | `1.06` |
-| [Her Story](HerStory) | Steam版 | XP+ | |
-
+| [Her Story](HerStory) | Steam版 | XP+ | - |
+| [狂い月](%E7%8B%82%E3%81%84%E6%9C%88_1.04) | Windows版 | XP / Vista / 7 / 8 / 10 | `1.04` |
 
 有需要的话可以自行取用。
 
