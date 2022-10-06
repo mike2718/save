@@ -2,13 +2,7 @@
 Player.log
 Player-prev.log
 
-*.7z
 *.zip
-*.rar
-*.tar
-*.tar.gz
-*.tar.xz
-*.tar.zst
 
 # Windows thumbnail cache files
 Thumbs.db
