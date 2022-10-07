@@ -16,7 +16,6 @@ copy:
 	copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" ".\NEEDY GIRL OVERDOSE\Windose_Data"
 	xcopy C:\Users\mike2\AppData\Roaming\natsuno-kanata\* .\natsuno-kanata /s /i /y
 	xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR" /s /i /y
-	xcopy "C:\Users\mike2\AppData\Local\UO\*"  ".\UO" /s /i /y
 	copy /y "E:\game\TeachingFeeling-4.β2\*.sav" ".\TeachingFeeling-4.β2"
 
 clean:
