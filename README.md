@@ -2,7 +2,7 @@
 
 包括以下游戏存档，大部分为日版存档：
 
-| 存档目录 | 平台 | 操作系统版本 | 游戏版本号 |
+| 前往存档目录 | 平台 | 操作系统版本 | 游戏版本号 |
 | :---------------------- | :------ | :---- | :------ |
 | [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam版[^1] | 7+ | `1.1.06` |
 | [Doki Doki Literature Club](DDLC-1454445547) | Steam版 | 7 | `1.1.1` |
@@ -28,6 +28,7 @@
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | Vista / 7 / 8 | `1.06` |
 | [Her Story](HerStory) | Steam版 | XP+ | - |
 | [狂い月](%E7%8B%82%E3%81%84%E6%9C%88_1.04) | Windows版 | XP / Vista / 7 / 8 / 10 | `1.04` |
+| [TeachingFeeling ベータ版](TeachingFeeling-4.%CE%B22) | DLsite版 | 10? | `4.β2.12` |
 
 有需要的话可以自行取用。
 
