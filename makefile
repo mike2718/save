@@ -10,6 +10,7 @@ html:	header.html footer.html README.md
 
 tar:	clean
 	git archive --format=zip --prefix=save/ --output=../save.zip HEAD
+	git archive --format=tar.xz --prefix=save/ --output=../save.tar.xz HEAD
 
 copy:
 	xcopy "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547" "e:\dev\save\DDLC-1454445547"/s /i /y
@@ -19,4 +20,4 @@ copy:
 	copy /y "E:\game\TeachingFeeling-4.¦Â2\*.sav" "e:\dev\save\TeachingFeeling-4.¦Â2"
 
 clean:
-	del /q ..\save.zip
+	del /q ..\save.zip ..\save.tar.xz
