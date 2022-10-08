@@ -12,11 +12,11 @@ tar:	clean
 	git archive --format=zip --prefix=save/ --output=../save.zip HEAD
 
 copy:
-	xcopy "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547" ".\DDLC-1454445547"/s /i /y
-	copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" ".\NEEDY GIRL OVERDOSE\Windose_Data"
-	xcopy C:\Users\mike2\AppData\Roaming\natsuno-kanata\* .\natsuno-kanata /s /i /y
-	xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  ".\hololive ERROR" /s /i /y
-	copy /y "E:\game\TeachingFeeling-4.β2\*.sav" ".\TeachingFeeling-4.β2"
+	xcopy "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547" "e:\dev\save\DDLC-1454445547"/s /i /y
+	copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" "e:\dev\save\NEEDY GIRL OVERDOSE\Windose_Data"
+	xcopy C:\Users\mike2\AppData\Roaming\natsuno-kanata\* e:\dev\save\natsuno-kanata /s /i /y
+	xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  "e:\dev\save\hololive ERROR" /s /i /y
+	copy /y "E:\game\TeachingFeeling-4.β2\*.sav" "e:\dev\save\TeachingFeeling-4.β2"
 
 clean:
 	del /q ..\save.zip
