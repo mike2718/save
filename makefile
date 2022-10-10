@@ -13,7 +13,6 @@ tar:	clean
 	git archive --format=tar.xz --prefix=save/ --output=../save.tar.xz HEAD
 
 copy:
-	xcopy "C:\Users\mike2\AppData\Roaming\RenPy\DDLC-1454445547" "e:\dev\save\DDLC-1454445547"/s /i /y
 	copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" "e:\dev\save\NEEDY GIRL OVERDOSE\Windose_Data"
 	xcopy C:\Users\mike2\AppData\Roaming\natsuno-kanata\* e:\dev\save\natsuno-kanata /s /i /y
 	xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  "e:\dev\save\hololive ERROR" /s /i /y
