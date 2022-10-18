@@ -29,7 +29,8 @@
 | [雨宿バス停留所](abt) | Windows版 | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | Vista / 7 / 8 | `1.06` |
 | [I.G.I.-2: Covert Strike](IGI%202) | USA版 | 98 / Me / 2000 / XP | `1.3 beta` |
-| [装甲悪鬼村正 体験版](%E8%A3%85%E7%94%B2%E6%82%AA%E9%AC%BC%E6%9D%91%E6%AD%A3) | Windows版 | XP / Vista / 7 (32-bit) | `` |
+| [装甲悪鬼村正](%E8%A3%85%E7%94%B2%E6%82%AA%E9%AC%BC%E6%9D%91%E6%AD%A3) | 体験版 | XP / Vista / 7 (32-bit) | `` |
+| [装甲悪鬼村正](./) | 通常版 | XP / Vista / 7 (32-bit) | `` |
 
 
 有需要的话可以自行取用。
