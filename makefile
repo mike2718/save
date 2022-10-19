@@ -4,13 +4,12 @@ all:	copy html tar
 html:	header.html footer.html README.md sort
 	copy /y header.html index.html
 	cmark-gfm -t html -e footnotes -e table -e strikethrough -e autolink \
-		-e tagfilter -e tasklist README.md >> index.html
+		  -e tagfilter -e tasklist README.md >> index.html
 	type footer.html >> index.html
 	tidy -i -m -q -w 80 index.html
 
 tar:	clean
 	git archive --format=zip --prefix=save/ --output=../save.zip HEAD
-	git archive --format=tar.xz --prefix=save/ --output=../save.tar.xz HEAD
 
 copy:
 	copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" "e:\dev\save\NEEDY GIRL OVERDOSE\Windose_Data"
@@ -22,4 +21,4 @@ sort:	README.md
 	type README.md | awk "/^\|/" | C:\msys64\usr\bin\sort.exe > README-sorted.md
 
 clean:
-	del /q ..\save.zip ..\save.tar.xz 2>nul
+	del /q ..\save.zip
