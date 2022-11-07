@@ -6,7 +6,7 @@ html:	header.html footer.html README.md sort
 	cmark-gfm -t html -e footnotes -e table -e strikethrough -e autolink \
 		  -e tagfilter -e tasklist README.md >> index.html
 	type footer.html >> index.html
-	tidy -i -m -q -w 80 index.html
+	tidy -i -m -q -w 80 index.html 2>nul
 
 tar:	clean
 	git archive --format=zip --prefix=save/ --output=../save.zip HEAD
