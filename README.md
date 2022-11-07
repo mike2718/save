@@ -14,7 +14,6 @@
 | [ONE～輝く季節へ～ Vista動作確認版](ONE_FV) | DLsite版[^2] | 98 / 2000 / Me / XP / Vista | `1.00` |
 | [Project Kat](ProjectKat) | Steam版 | 7+ | `1.3.1` |
 | [TeachingFeeling ベータ版](TeachingFeeling-4.%CE%B22) | DLsite版 | 10? | `4.β2.12` |
-| [XENOPHOBIA](Xeno%2B) | Windows版 | - | `0.22` |
 | [hololive ERROR](hololive%20ERROR) | Shop版 | 10 (64-bit) | `2.0` |
 | [クロエのレクイエム](cloe) | Windows版 | 2000 / XP / Vista / 7 / 8 | `1.21` |
 | [コープスパーティーブラッドカバー５](CorpsePartyBC_5) | Windows版 | 2000 / XP / Vista / 7 | `5.05` |
@@ -23,14 +22,13 @@
 | [リトル・ウィッチ パルフェ 〜黒猫印の魔法屋さん〜](./) | Windows版 | 98 / Me / 2000 / XP | |
 | [廃深](haishin) | Steam版 | 10 | |
 | [怪異症候群](%E6%80%AA%E7%95%B0%E7%97%87%E5%80%99%E7%BE%A4) | Windows版 | 2000 / 10 | `1.0` |
-| [狂い月](%E7%8B%82%E3%81%84%E6%9C%88_1.04) | Windows版 | XP / Vista / 7 / 8 / 10 | `1.04` |
 | [異形の箱庭Lycoris](%E7%95%B0%E5%BD%A2%E3%81%AE%E7%AE%B1%E5%BA%AD%E3%80%80%E3%80%80Lycoris.2.0.2) | DLsite版 | 2000 / XP / Vista / 7 / 8 / 10 | `2.0.2` |
 | [白昼夢の青写真](%E7%99%BD%E6%98%BC%E5%A4%A2%E3%81%AE%E9%9D%92%E5%86%99%E7%9C%9F%E3%80%80%E4%BD%93%E9%A8%93%E7%89%88) | 体験版 | 8 / 8.1 / 10 | `1.1` |
 | [葬回診](com.uniteatsushi.sokaishin) | Android版 | - | `1.0.0` |
 | [装甲悪鬼村正](%E8%A3%85%E7%94%B2%E6%82%AA%E9%AC%BC%E6%9D%91%E6%AD%A3) | 通常版 | XP / Vista / 7 (32-bit) | `1.30` |
 | [雨宿バス停留所](abt) | Windows版 | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | Vista / 7 / 8 | `1.06` |
-
+| [Dysthanasia(ディスタナジア)](Dysthanasia_Demo_Ver0.11) | Windows版 |  | `0.11` |
 
 有需要的话可以自行取用。
 
