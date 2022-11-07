@@ -6,7 +6,7 @@
 
 
 # Declare files that will always have CRLF line endings on checkout.
-
+*.ini text eol=crlf
 
 # Declare files that will always have LF line endings on checkout.
 
