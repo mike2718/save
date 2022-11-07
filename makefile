@@ -16,6 +16,7 @@ copy:
 	xcopy C:\Users\mike2\AppData\Roaming\natsuno-kanata\* e:\dev\save\natsuno-kanata /s /i /y
 	xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  "e:\dev\save\hololive ERROR" /s /i /y
 	copy /y "E:\game\TeachingFeeling-4.¦Â2\*.sav" "e:\dev\save\TeachingFeeling-4.¦Â2"
+	xcopy "C:\Users\mike2\AppData\Local\Dysthanasia\*"  "e:\dev\save\Dysthanasia" /s /i /y
 
 sort:	README.md
 	type README.md | awk "/^\|/" | C:\msys64\usr\bin\sort.exe > README-sorted.md
