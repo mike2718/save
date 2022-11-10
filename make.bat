@@ -1,3 +1,4 @@
 @echo off
-make.exe -f makefile
+cd /d "%~dp0"
+E:\cmdtool32\make.exe
 pause

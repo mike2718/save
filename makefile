@@ -1,5 +1,5 @@
 
-all:	copy html tar
+all:	copy tar
 
 html:	header.html footer.html README.md sort
 	copy /y header.html index.html
