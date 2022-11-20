@@ -15,7 +15,9 @@
 | [ONE～輝く季節へ～ Vista動作確認版](ONE_FV) | DLsite版[^2] | 98 / 2000 / Me / XP / Vista | `1.00` |
 | [Project Kat](ProjectKat) | Steam版 | 7+ | `1.3.1` |
 | [TeachingFeeling ベータ版](TeachingFeeling-4.%CE%B22) | DLsite版 | 10? | `4.β2.12` |
+| [XENOPHOBIA(ゼノフォビア)](Xeno%2B) | Windows版 |  | `0.22` |
 | [hololive ERROR](hololive%20ERROR) | Shop版 | 10 (64-bit) | `2.0` |
+| [アンリアルライフ](UNREAL_LIFE) | Steam版 | 7 / 8 /10 | `` |
 | [クロエのレクイエム](cloe) | Windows版 | 2000 / XP / Vista / 7 / 8 | `1.21` |
 | [コープスパーティーブラッドカバー５](CorpsePartyBC_5) | Windows版 | 2000 / XP / Vista / 7 | `5.05` |
 | [ナツノカナタ](natsuno-kanata) | Steam版 | 10 | `1.0.9` |
@@ -29,8 +31,6 @@
 | [装甲悪鬼村正](%E8%A3%85%E7%94%B2%E6%82%AA%E9%AC%BC%E6%9D%91%E6%AD%A3) | 通常版 | XP / Vista / 7 (32-bit) | `1.30` |
 | [雨宿バス停留所](abt) | Windows版 | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | Vista / 7 / 8 | `1.06` |
-| [XENOPHOBIA(ゼノフォビア)](Xeno%2B) | Windows版 |  | `0.22` |
-| [アンリアルライフ](UNREAL_LIFE) | Steam版 | 7 / 8 /10 | `` |
 
 
 有需要的话可以自行取用。
