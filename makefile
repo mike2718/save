@@ -9,7 +9,7 @@ html:	header.html footer.html README.md sort
 	tidy -i -m -q -w 80 index.html 2>nul
 
 tar:	clean
-	git archive --format=zip --prefix=save/ --output=../save.zip HEAD
+	git archive --format=zip --prefix=save/ --output=../save.zip main
 
 copy:
 	copy /y "C:\Program Files (x86)\Steam\steamapps\common\NEEDY GIRL OVERDOSE\Windose_Data\*.es3" "e:\dev\save\NEEDY GIRL OVERDOSE\Windose_Data"
