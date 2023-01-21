@@ -30,7 +30,7 @@
 | [装甲悪鬼村正](%E8%A3%85%E7%94%B2%E6%82%AA%E9%AC%BC%E6%9D%91%E6%AD%A3) | 通常版 | XP / Vista / 7 (32-bit) | `1.30` |
 | [雨宿バス停留所](abt) | Windows版 | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam版 | Vista / 7 / 8 | `1.06` |
-
+| [東方虹龍洞　～ Unconnected Marketeers.](th18) | DLsite版 | 8.1 / 10 | `1.00a` |
 
 有需要的话可以自行取用。
 
