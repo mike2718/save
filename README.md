@@ -16,7 +16,6 @@
 | [ONE～輝く季節へ～ Vista動作確認版](ONE_FV) | DLsite版[^2] | 98 / 2000 / Me / XP / Vista | `1.00` |
 | [Project Kat](ProjectKat) | Steam版 | 7+ | `1.3.1` |
 | [TeachingFeeling ベータ版](TeachingFeeling-4.%CE%B22) | DLsite版 | 10? | `4.β2.12` |
-| [XENOPHOBIA(ゼノフォビア)](Xeno%2B) | Windows版 |  | `0.22` |
 | [アンリアルライフ](UNREAL_LIFE) | Steam版 | 7 / 8 /10 | `` |
 | [クロエのレクイエム](cloe) | Windows版 | 2000 / XP / Vista / 7 / 8 | `1.21` |
 | [コープスパーティーブラッドカバー５](CorpsePartyBC_5) | Windows版 | 2000 / XP / Vista / 7 | `5.05` |
