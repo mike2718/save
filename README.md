@@ -25,7 +25,6 @@
 | [廃深](haishin) | Steam版 | 10 | |
 | [怪異症候群](%E6%80%AA%E7%95%B0%E7%97%87%E5%80%99%E7%BE%A4) | Windows版 | 2000 / 10 | `1.0` |
 | [異形の箱庭Lycoris](%E7%95%B0%E5%BD%A2%E3%81%AE%E7%AE%B1%E5%BA%AD%E3%80%80%E3%80%80Lycoris.2.0.2) | DLsite版 | 2000 / XP / Vista / 7 / 8 / 10 | `2.0.2` |
-| [白昼夢の青写真](%E7%99%BD%E6%98%BC%E5%A4%A2%E3%81%AE%E9%9D%92%E5%86%99%E7%9C%9F%E3%80%80%E4%BD%93%E9%A8%93%E7%89%88) | 体験版 | 8 / 8.1 / 10 | `1.1` |
 | [葬回診](com.uniteatsushi.sokaishin) | Android版 | - | `1.0.0` |
 | [装甲悪鬼村正](%E8%A3%85%E7%94%B2%E6%82%AA%E9%AC%BC%E6%9D%91%E6%AD%A3) | 通常版 | XP / Vista / 7 (32-bit) | `1.30` |
 | [雨宿バス停留所](abt) | Windows版 | XP / 7 / 8 | `1.05` |
