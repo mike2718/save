@@ -1,12 +1,4 @@
-
 all:	copy tar sort
-
-html:	header.html footer.html README.md sort
-	copy /y header.html index.html
-	cmark-gfm -t html -e footnotes -e table -e strikethrough -e autolink \
-		  -e tagfilter -e tasklist README.md >> index.html
-	type footer.html >> index.html
-	tidy -i -m -q -w 80 index.html 2>nul
 
 tar:	clean
 	git archive --format=zip --prefix=save/ --output=../save.zip main
