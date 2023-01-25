@@ -2,17 +2,17 @@
 
 包括以下游戏存档，大部分为日版存档：
 
-| 存档目录 | 平台 | 操作系统版本 | 游戏版本号 |
+| 游戏名 | 平台 | 要求操作系统版本 | 游戏版本号 |
 | :---------------------- | :------ | :---- | :------ |
-| [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam版[^1] | 7+ | `1.1.06` |
+| [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam版 | 7+ | `1.1.06` |
 | [Dysthanasia(ディスタナジア)](Dysthanasia) | Windows版 |  | `0.11` |
 | [Her Story](HerStory) | Steam版 | XP+ | - |
 | [I.G.I.-2: Covert Strike](IGI%202) | USA版 | 98 / Me / 2000 / XP | `1.3 beta` |
 | [Ib](Ib) | Steam版 | 10 | `1.05` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | 8 / 10 | `1.0.26` |
-| [NOeSIS-嘘を吐いた記憶の物語-](Noesis01) | Freem!版[^3] | XP / Vista / 7 | `1.11` |
+| [NOeSIS-嘘を吐いた記憶の物語-](Noesis01) | Freem!版 | XP / Vista / 7 | `1.11` |
 | [NOeSIS02-羽化-](Noesis02) | Freem!版 | XP / Vista / 7 | `1.05` |
-| [ONE～輝く季節へ～ Vista動作確認版](ONE_FV) | DLsite版[^2] | 98 / 2000 / Me / XP / Vista | `` |
+| [ONE～輝く季節へ～ Vista動作確認版](ONE_FV) | DLsite版 | 98 / 2000 / Me / XP / Vista | `` |
 | [Project Kat](ProjectKat) | Steam版 | 7+ | `1.3.1` |
 | [TeachingFeeling ベータ版](TeachingFeeling-4.%CE%B22) | DLsite版 | 10? | `4.β2.12` |
 | [hololive ERROR](hololive%20ERROR) | Shop版 | 10 (64-bit) | `2.0` |
@@ -33,7 +33,3 @@
 
 
 有需要的话可以自行取用。
-
-[^1]: 标注为Steam版的，全为Windows版
-[^2]: 标注为DLsite版的，全为Windows版
-[^3]: 标注为Freem!版的，全为Windows版
