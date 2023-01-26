@@ -9,13 +9,13 @@
 | [Her Story](HerStory) | Steam | XP+ | - |
 | [I.G.I.-2: Covert Strike](IGI%202) | Windows | 98 / Me / 2000 / XP | `1.3 beta` |
 | [Ib](Ib) | Steam | 10 | `1.05` |
-| [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam版 | 8 / 10 | `1.0.26` |
+| [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam | 8 / 10 | `1.0.26` |
 | [ONE～輝く季節へ～ Vista動作確認版](ONE_FV) | DLsite | 98 / 2000 / Me / XP / Vista | `` |
 | [Project Kat](ProjectKat) | Steam | 7+ | `1.3.1` |
 | [TeachingFeeling ベータ版](TeachingFeeling-4.%CE%B22) | DLsite | 10? | `4.β2.12` |
 | [hololive ERROR Shop版](hololive%20ERROR) | Windows | 10 (64-bit) | `2.0` |
 | [アンリアルライフ](UNREAL_LIFE) | Steam | 7 / 8 /10 | `` |
-| [イースI＆II クロニクルズ](YsC) | DLsite | Vista / 7 / 8 | `` |
+| [イースI＆II クロニクルズ](YsC) | DLsite | Vista / 7 / 8 (64-bit) | `` |
 | [クロエのレクイエム](cloe) | Windows | 2000 / XP / Vista / 7 / 8 | `1.21` |
 | [コープスパーティーブラッドカバー５](CorpsePartyBC_5) | Windows | 2000 / XP / Vista / 7 | `5.05` |
 | [マブラヴ オルタネイティヴ Windows 7 対応版](%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B4Latest) | Windows | 7 | `` |
