@@ -4,7 +4,7 @@
 
 | 游戏名 | 平台 | 要求操作系统版本 | 游戏版本号 |
 | :---------------------- | :------ | :---- | :------ |
-| [7 Days to End with You](7%20Days%20to%20End%20with%20You) | Steam | 7+ | `1.1.06` |
+| [7 Days to End with You](7DaysToDie) | Steam | 7+ | `1.2.01` |
 | [Dysthanasia(ディスタナジア)](Dysthanasia) | Windows |  | `0.11` |
 | [Her Story](HerStory) | Steam | XP+ | - |
 | [I.G.I.-2: Covert Strike](IGI%202) | Windows | 98 / Me / 2000 / XP | `1.3 beta` |
