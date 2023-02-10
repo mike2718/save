@@ -8,6 +8,7 @@ xcopy "C:\Users\mike2\AppData\LocalLow\cover\hololive ERROR\*"  "E:\dev\save\hol
 copy /y "E:\game\TeachingFeeling-4.¦Â2\*.sav" "E:\dev\save\TeachingFeeling-4.¦Â2"
 xcopy "C:\Users\mike2\AppData\LocalLow\OTLGAME\LoveLoveSchoolDays\*" "E:\dev\save\LoveLoveSchoolDays" /s /i /y
 
+type README.md | awk "/^\|/" | C:\msys64\usr\bin\sort.exe > README-sorted.md
 
 del /q ..\save-main.zip 2>nul
 git archive --format=zip --prefix=save-main/ --output=../save-main.zip main

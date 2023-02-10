@@ -9,6 +9,7 @@
 | [Her Story](HerStory) | Steam | XP+ | - |
 | [I.G.I.-2: Covert Strike](IGI%202) | Windows | 98 / Me / 2000 / XP | `1.3 beta` |
 | [Ib](Ib) | Steam | 10 | `1.05` |
+| [Love Love School Days](LoveLoveSchoolDays) | Steam | 7 SP1+ / 10 (64 bit) | `1.0.0` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam | 8 / 10 | `1.0.26` |
 | [ONE～輝く季節へ～ Vista動作確認版](ONE_FV) | DLsite | 98 / 2000 / Me / XP / Vista | `` |
 | [Project Kat](ProjectKat) | Steam | 7+ | `1.3.1` |
