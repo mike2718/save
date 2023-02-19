@@ -15,7 +15,7 @@
 | [Project Kat](ProjectKat) | Steam | 7+ | `1.3.1` |
 | [TeachingFeeling ベータ版](TeachingFeeling-4.%CE%B22) | DLsite | 10? | `4.β2.12` |
 | [hololive ERROR Shop版](hololive%20ERROR) | Windows | 10 (64-bit) | `2.0` |
-| [ぐるみん](GURUMIN) | Windows | Vista / XP / 2000 | `1.2a` |
+| [ぐるみん](GURUMIN) | DLsite | Vista / XP / 2000 | `1.2a` |
 | [アンリアルライフ](UNREAL_LIFE) | Steam | 7 / 8 /10 | `` |
 | [イースI＆II クロニクルズ](YsC) | DLsite | Vista / 7 / 8 (64-bit) | `` |
 | [クロエのレクイエム](cloe) | Windows | 2000 / XP / Vista / 7 / 8 | `1.21` |
