@@ -31,7 +31,9 @@
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam | Vista / 7 / 8 | `1.06` |
 | [DEMONOPHOBIA（デモノフォビア）](Demonophobia) | Windows | ? | `-` |
 
-<!-- | [シンフォニック=レイン 普及版](./) | Windows | 98SE / ME / 2000 / XP | `` | -->
+
+<!-- | [ピアノ～紅楼館の隷嬢達～](./) | Windows | XP / Me / 98 / 2000 | `` | -->
+<!-- | [シンフォニック＝レイン 普及版](./) | Windows | 98SE / ME / 2000 / XP | `` | -->
 <!-- | [リトル・ウィッチ パルフェ 〜黒猫印の魔法屋さん〜](./) | Windows | 98 / Me / 2000 / XP | `` | -->
 <!-- | [NOeSIS-嘘を吐いた記憶の物語-](Noesis01) | Freem! | XP / Vista / 7 | `1.11` | -->
 <!-- | [NOeSIS02-羽化-](Noesis02) | Freem! | XP / Vista / 7 | `1.05` | -->
