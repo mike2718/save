@@ -2,6 +2,8 @@ README-sorted.md
 Player-prev.log
 Player.log
 *.zip
+Logs/
+CrashReportClient/
 
 # Windows thumbnail cache files
 Thumbs.db

@@ -2,7 +2,7 @@
 
 包括以下游戏存档：
 
-| 游戏名 | 平台 | 要求操作系统版本 | 游戏版本号 |
+| 游戏名 | 平台 | 操作系统版本 | 游戏版本 |
 | :---------------------- | :------ | :---- | :------ |
 | [7 Days to End with You](Seven%20Days%20to%20End%20with%20You) | Steam | 7+ | `1.2.01` |
 | [Dysthanasia(ディスタナジア)](Dysthanasia) | Windows |  | `0.11` |
@@ -30,6 +30,7 @@
 | [雨宿バス停留所](abt) | Windows | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam | Vista / 7 / 8 | `1.06` |
 | [DEMONOPHOBIA（デモノフォビア）](Demonophobia) | Windows | ? | `-` |
+| [Only Up!](OnlyUP) | Windows | ? | `20230621` |
 
 
 <!-- | [ピアノ～紅楼館の隷嬢達～](./) | Windows | XP / Me / 98 / 2000 | `` | -->
