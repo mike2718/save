@@ -6,7 +6,7 @@
 | :---------------------- | :------ | :---- | :------ |
 | [7 Days to End with You](Seven%20Days%20to%20End%20with%20You) | Steam | 7+ | `1.2.01` |
 | [Dysthanasia(ディスタナジア)](Dysthanasia) | Windows |  | `0.11` |
-| [Her Story](HerStory) | Steam | XP+ | - |
+| [Her Story](HerStory) | Steam | XP+ | |
 | [I.G.I.-2: Covert Strike](IGI%202) | Windows | 98 / Me / 2000 / XP | `1.3 beta` |
 | [Ib](Ib) | Steam | 10 | `1.05` |
 | [Love Love School Days](LoveLoveSchoolDays) | Steam | 7 SP1+ / 10 (64 bit) | `1.0.0` |
@@ -30,7 +30,7 @@
 | [雨宿バス停留所](abt) | Windows | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam | Vista / 7 / 8 | `1.06` |
 | [DEMONOPHOBIA（デモノフォビア）](Demonophobia) | Windows | XP? | |
-| [Only Up!](OnlyUP) | Windows | ? | `20230621` |
+| [Only Up!](OnlyUP) | Windows | | `20230621` |
 
 
 <!-- | [ピアノ～紅楼館の隷嬢達～](./) | Windows | XP / Me / 98 / 2000 |  | -->
