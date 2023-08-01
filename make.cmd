@@ -10,8 +10,7 @@ rem xcopy "C:\Users\Saori\AppData\LocalLow\OTLGAME\LoveLoveSchoolDays\*" "C:\Use
 
 type README.md | awk "/^\|/" | sort.exe > README-sorted.md
 
-del /q ..\save-main.zip 2>nul
-git archive --format=zip --prefix=save-main/ --output=../save-main.zip main
-copy /y ..\save-main.zip D:\
+git archive --format=zip --prefix=save/ --output=../save.zip main
+copy /y ..\save.zip D:\
 
 pause
