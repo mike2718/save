@@ -25,7 +25,7 @@
 | [怪異症候群](%E6%80%AA%E7%95%B0%E7%97%87%E5%80%99%E7%BE%A4) | Windows | 2000 / 10 | `1.0` |
 | [東方虹龍洞　～ Unconnected Marketeers.](th18) | DLsite | 8.1 / 10 | `1.00a` |
 | [異形の箱庭Lycoris](%E7%95%B0%E5%BD%A2%E3%81%AE%E7%AE%B1%E5%BA%AD%E3%80%80%E3%80%80Lycoris.2.0.2) | DLsite | 2000 / XP / Vista / 7 / 8 / 10 | `2.0.2` |
-| [葬回診](com.uniteatsushi.sokaishin) | Android | - | `1.0.0` |
+| [葬回診](com.uniteatsushi.sokaishin) | Android |  | `1.0.0` |
 | [装甲悪鬼村正 通常版](%E8%A3%85%E7%94%B2%E6%82%AA%E9%AC%BC%E6%9D%91%E6%AD%A3) | Windows | XP / Vista / 7 (32-bit) | `1.30` |
 | [雨宿バス停留所](abt) | Windows | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam | Vista / 7 / 8 | `1.06` |
