@@ -30,9 +30,9 @@
 | [雨宿バス停留所](abt) | Windows | XP / 7 / 8 | `1.05` |
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam | Vista / 7 / 8 | `1.06` |
 | [DEMONOPHOBIA（デモノフォビア）](Demonophobia) | Windows | XP? | |
-| [Only Up!](OnlyUP) | Windows | | `20230621` |
 
 
+<!-- |   | [Only Up!](OnlyUP) | Windows | | `20230621` |   -->
 <!-- | [ピアノ～紅楼館の隷嬢達～](./) | Windows | XP / Me / 98 / 2000 |  | -->
 <!-- | [シンフォニック＝レイン 普及版](./) | Windows | 98SE / ME / 2000 / XP |  | -->
 <!-- | [リトル・ウィッチ パルフェ 〜黒猫印の魔法屋さん〜](./) | Windows | 98 / Me / 2000 / XP |  | -->
