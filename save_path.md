@@ -8,7 +8,7 @@
 | hololive ERROR | `C:\Users\Saori\AppData\LocalLow\cover\hololive ERROR` |
 | TeachingFeeling | `.\TeachingFeeling-4.β2\*.sav`  |
 | Love Love School Days | `C:\Users\Saori\AppData\LocalLow\OTLGAME\LoveLoveSchoolDays` |
-| 廃深2 | `C:\Users\Saori\dev\save\haishin2` |
+| 廃深2 | `C:\Users\Saori\AppData\LocalLow\qureate\haishin2` |
 
 ## 存档可能的保存位置
 
