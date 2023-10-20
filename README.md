@@ -2,7 +2,7 @@
 
 包括以下游戏存档：
 
-| 游戏名 | 平台/介质 | 操作系统版本 | 游戏版本 |
+| 游戏名 | 平台 | 系统版本 | 游戏版本 |
 | :---------------------- | :------ | :---- | :------ |
 | [7 Days to End with You](Seven%20Days%20to%20End%20with%20You) | Steam | 7+ | `1.2.01` |
 | [DEMONOPHOBIA（デモノフォビア）](Demonophobia) | Windows | XP? | |
