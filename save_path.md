@@ -15,4 +15,3 @@
 - `C:\Users\Saori\AppData\Local`
 - `C:\Users\Saori\AppData\LocalLow`
 - `C:\Users\Saori\AppData\Roaming`
-- `C:\Program Files (x86)\Steam\steamapps\common`
