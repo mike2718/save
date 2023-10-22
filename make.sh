@@ -1,7 +1,7 @@
 #!/bin/bash
 
-git archive --format=tar.xz --prefix=save/ --output=/d/save.tar.xz main
 git archive --format=tar.xz --prefix=save/ --output=../save.tar.xz main
+cp -f ../save.tar.xz /d/
 
 rm -f README-sorted.md
 cat README.md | awk '/^\|/' | sort > README-sorted.md
