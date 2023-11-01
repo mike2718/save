@@ -18,4 +18,4 @@
 
 - `%USERPROFILE%\Local`
 - `%USERPROFILE%\LocalLow`
-- `%USERPROFILE%\Roaming`
+- `%APPDATA%`
