@@ -19,5 +19,6 @@
 
 - `C:\Users\<用户名>\AppData\Local`
 - `C:\Users\<用户名>\AppData\LocalLow`
-- `%APPDATA%` -> `C:\Users\<用户名>\AppData\Roaming`
+- `C:\Users\<用户名>\AppData\Roaming`
 - `C:\Users\<用户名>\文档`
+- 游戏安装目录下等
