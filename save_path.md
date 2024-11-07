@@ -21,4 +21,5 @@
 - `C:\Users\<用户名>\AppData\LocalLow`
 - `C:\Users\<用户名>\AppData\Roaming`
 - `C:\Users\<用户名>\文档`
+- `C:\Users\<用户名>\Saved Games`
 - 游戏安装目录下等
