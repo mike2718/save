@@ -13,7 +13,6 @@
 | [Love Love School Days](LoveLoveSchoolDays) | Steam | 7 SP1+ / 10 (64 bit) | `1.0.0` |
 | [NEEDY GIRL OVERDOSE](NEEDY%20GIRL%20OVERDOSE) | Steam | 8 / 10 | `1.0.26` |
 | [ONE～輝く季節へ～ Vista動作確認版](ONE_FV) | DLsite | 98 / 2000 / Me / XP / Vista |  |
-| [Project Kat](ProjectKat) | Steam | 7+ | `1.3.1` |
 | [TeachingFeeling ベータ版](TeachingFeeling-4.%CE%B22) | DLsite | 10? | `4.β2.12` |
 | [hololive ERROR](hololive%20ERROR) | Windows | 10 (64-bit) | `2.0` |
 | [ぐるみん](GURUMIN) | DLsite | Vista / XP / 2000 | `1.2a` |
