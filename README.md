@@ -35,6 +35,7 @@
 | [魔女の家MV](%E9%AD%94%E5%A5%B3%E3%81%AE%E5%AE%B6MV) | Steam | XP / Vista / 7 |  |
 | [ウーマンコミュニケーション](WomanCommunication) | Steam | 10+ |  |
 | [DMLC!](DMLC) | Steam | 10+ |  |
+| [ツヴァイ２プラス](ZWEI2P) | DLsite | Vista / 7 / 8 |  |
 
 
 <!-- |   | [Only Up!](OnlyUP) | Windows | | `20230621` |   -->
