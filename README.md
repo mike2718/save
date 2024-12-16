@@ -36,6 +36,7 @@
 | [ウーマンコミュニケーション](WomanCommunication) | Steam | 10+ |  |
 | [DMLC!](DMLC) | Steam | 10+ |  |
 | [ツヴァイ２プラス](ZWEI2P) | DLsite | Vista / 7 / 8 |  |
+| [米塔 MiSide](MiSideFull) | Steam | 7 / 8 / 10 | `0.9` |
 
 
 <!-- |   | [Only Up!](OnlyUP) | Windows | | `20230621` |   -->
