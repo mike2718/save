@@ -1,3 +1,0 @@
-*.cfg text eol=crlf
-*.list text eol=crlf
-*.es3 binary

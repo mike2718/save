@@ -1,7 +1,0 @@
-config text eol=crlf
-SceneData text eol=crlf
-summary text eol=crlf
-worldline text eol=crlf
-*.sh text eol=lf
-imageValues binary
-values binary

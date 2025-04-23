@@ -1,3 +1,0 @@
-*.ini text eol=crlf
-*.sav binary
-*.pcf binary

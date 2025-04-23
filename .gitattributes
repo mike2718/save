@@ -1,13 +1,40 @@
+
 *.md text
+*.txt text
+*.log text
+*.ini binary
+*.json binary
+*.vdf binary
 *.cmd text eol=crlf
 *.bat text eol=crlf
 *.sh text eol=lf
-*.rvdata binary
+*.list binary
+
+# 游戏数据文件
+*.rvdata2 binary
 *.es3 binary
-*.jpg binary
-*.png binary
-*.gif binary
+*.sav binary
+*.dat binary
 *.lsd binary
 *.ldb binary
 *.rpgsave binary
+*.svd binary
+*.ici binary
+*.uuc binary
+*.npf binary
+*.lcs binary
+*.tres binary
+*.cache binary
+*.bmp binary
+*.qsc binary
+*.sev binary
+*.igd binary
+*.igi2save binary
+
+# 图片文件
+*.jpg binary
+*.png binary
+*.gif binary
+
+# 通用设置
 * text=auto
