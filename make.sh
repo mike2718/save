@@ -1,7 +1,6 @@
 #!/bin/bash
 
-git archive --format=zip --prefix=save/ --output=../save.zip main
-cp -f ../save.zip /c/Users/Saori/backup
+git archive --format=zip --prefix=save/ --output=/c/Users/Saori/backup/save.zip main
 
 cat README.md | awk '/^\|/' | sort > README-sorted.md
 cat save_path.md | awk '/^\|/' | sort > save_path-sorted.md
