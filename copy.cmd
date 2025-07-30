@@ -8,3 +8,5 @@ rem copy /y "C:\Users\Saori\game\TeachingFeeling-4.¦Â2\*.sav" ".\TeachingFeeling
 rem xcopy "C:\Users\Saori\AppData\LocalLow\OTLGAME\LoveLoveSchoolDays\*" ".\LoveLoveSchoolDays" /s /i /y
 xcopy "C:\Users\Saori\Saved Games\FALCOM\ZWEI2P\*" ".\ZWEI2P" /s /i /y
 xcopy "C:\Users\Saori\AppData\LocalLow\AIHASTO\MiSideFull\*" ".\MiSideFull" /s /i /y
+xcopy "C:\Program Files (x86)\Steam\userdata\323136698\1794680\remote\*" ".\Vampire_Survivors" /s /i /y
+
