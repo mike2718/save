@@ -4,7 +4,7 @@
 *.md text
 *.txt text
 *.log text
-*.ini binary
+*.ini text eol=crlf
 *.json binary
 *.vdf binary
 *.cmd text eol=crlf

@@ -10,4 +10,4 @@ xcopy "C:\Users\Saori\Saved Games\FALCOM\ZWEI2P\*" ".\ZWEI2P" /s /i /y
 xcopy "C:\Users\Saori\AppData\LocalLow\AIHASTO\MiSideFull\*" ".\MiSideFull" /s /i /y
 xcopy "C:\Program Files (x86)\Steam\userdata\323136698\1794680\remote\*" ".\Vampire_Survivors" /s /i /y
 xcopy "C:\Users\Saori\AppData\Local\Dysthanasia\Saved\SaveGames\*.sav" ".\Dysthanasia" /s /i /y
-
+xcopy "C:\Users\Saori\AppData\Local\BANDAI NAMCO Entertainment\ACE COMBAT 7\*" ".\ACE COMBAT 7" /s /i /y
