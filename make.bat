@@ -11,5 +11,7 @@ xcopy "C:\Users\Saori\AppData\LocalLow\AIHASTO\MiSideFull\*" ".\MiSideFull" /s /
 xcopy "C:\Program Files (x86)\Steam\userdata\323136698\1794680\remote\*" ".\Vampire_Survivors" /s /i /y
 xcopy "C:\Users\Saori\AppData\Local\Dysthanasia\Saved\SaveGames\*.sav" ".\Dysthanasia" /s /i /y
 xcopy "C:\Users\Saori\AppData\Local\BANDAI NAMCO Entertainment\ACE COMBAT 7\*" ".\ACE COMBAT 7" /s /i /y
+xcopy "C:\Users\Saori\AppData\Local\Senran Kagura Burst ReNewal\*" ".\Senran Kagura Burst ReNewal" /s /i /y
+
 
 git archive -o C:\Users\Saori\share\save.zip HEAD
